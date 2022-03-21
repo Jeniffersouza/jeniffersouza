@@ -8,7 +8,7 @@
   <a href="https://github.com/jeniffersouza">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jeniffersouza&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
     
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeniffersouza&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeniffersouza&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   <p>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"<> 
