@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou trabalhando com front-end
 - 🌱 Estudo JavaScript e React Native
 - 😄 Pronouns: ela/dela
-<div align="center">
+<div align="left">
   <a href="https://github.com/jeniffersouza">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jeniffersouza&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
     
