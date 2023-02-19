@@ -1,8 +1,8 @@
 ### Olá eu sou a Jeniffer Souza
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 🔭 Atualmente estou trabalhando com desenvolvimento web
-- 🌱  Estudando Javascript , Angular, Java SpringBoot
+- 🔭 Atualmente estou trabalhando com Produtos 
+- 🌱  Estudando Javascript , Angular
 - 😄 Pronouns: ela/dela
 <div align="left">
   <a href="https://github.com/jeniffersouza">
@@ -24,7 +24,6 @@
 <div>
 
  <a href="https://instagram.com/jenifferssouzaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.youtube.com/channel/UCaSASWITT0AWhzhU7mprJkQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href = "mailto:ajenifferbsouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/jenifferbsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    ![Snake animation](https://github.com/jeniffersouza/jeniffersouza/blob/output/github-contribution-grid-snake.svg)
