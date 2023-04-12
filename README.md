@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 - 🔭 Atualmente estou trabalhando com Produtos 
-- 🌱  Estudando Javascript , Angular
+- 🌱  Estudando Javascript e C na faculdade
 - 😄 Pronouns: ela/dela
 <div align="left">
   <a href="https://github.com/jeniffersouza">
