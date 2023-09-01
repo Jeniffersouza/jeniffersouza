@@ -2,7 +2,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 - 🔭 Atualmente estou trabalhando com Produtos 
-- 🌱  Estudando Javascript e C na faculdade
+- 🌱  Estudando Java e C na faculdade
+- 🌱  Estudando em casa a como fazer aplicativos com React Native.
 - 😄 Pronouns: ela/dela
 <div align="left">
   <a href="https://github.com/jeniffersouza">
