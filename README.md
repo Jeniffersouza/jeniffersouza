@@ -1,8 +1,8 @@
 ### Olá eu sou a Jeniffer Souza
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 🔭 Atualmente estou trabalhando como Product Owner
-- 🌱  Estudando Java e C na faculdade
+- 🔭 Atualmente estou trabalhando como QA
+- 🌱  Estudando Python na faculdade
 - 🌱  Estudando em casa Teste de Software e Testes automatizados com Cypress!
 - 😄 Pronouns: ela/dela
 <div align="left">
