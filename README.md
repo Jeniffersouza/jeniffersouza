@@ -1,8 +1,8 @@
 ### Olá eu sou a Jeniffer Souza
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 🔭 Atualmente estou trabalhando como QA
-- 🌱  Estudando  Teste de Software e Testes automatizados com Cypress!
+- 🔭  QA engineer
+- 🌱  Estudando  Teste de Software automatizados com Cypress e Playwright!
 - 😄 Pronouns: ela/dela
 <div align="left">
   <a href="https://github.com/jeniffersouza">
